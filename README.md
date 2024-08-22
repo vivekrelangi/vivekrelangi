@@ -15,7 +15,7 @@ I am a passionate B.Tech CSE graduate from Aditya College Of Engineering at Sura
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,python,java,c,cpp,sql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,python,java,c,cpp,mysql,mongodb)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
