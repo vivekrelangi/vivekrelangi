@@ -28,7 +28,7 @@ I am a passionate B.Tech CSE graduate from Aditya College Of Engineering at Sura
 
  ## 🏆 Achievements
 
-- 🌟 Completed 17 leetcode problems.
+- 🌟 Completed 19 leetcode problems.
 
 
 ## 📬 Get in Touch
